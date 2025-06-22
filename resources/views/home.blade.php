@@ -509,6 +509,7 @@
         </div>
     </div>
 
+    
     <!-- CTA Section -->
     <section class="py-16 bg-gradient-to-r from-blue-600 to-blue-800 relative overflow-hidden">
         <!-- Background Dots Pattern -->
@@ -603,9 +604,9 @@
 
                 <!-- Newsletter -->
                 <div>
-                    <h3 class="text-lg font-bold mb-4 border-b border-blue-800 pb-2">Berlangganan</h3>
+                    <h3 class="text-lg font-bold mb-4 border-b border-blue-800 pb-2">Saran</h3>
                     <p class="text-blue-200 text-sm mb-4">
-                        Dapatkan informasi terbaru dari SMPN 5 Tanggul dengan berlangganan newsletter kami.
+                        Berikan Pendapat atau saran dari anda untuk meningkatkan kualitas layanan kami.
                     </p>
                     <form class="space-y-2">
                         <input type="email" placeholder="Alamat Email" class="w-full px-3 py-2 bg-blue-800 border border-blue-700 text-white placeholder-blue-300 rounded focus:outline-none focus:ring-2 focus:ring-yellow-500 text-sm">
